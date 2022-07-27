@@ -1,2 +1,3 @@
-# diabetes_prediction
+## Diabetes Prediction - Python
+
 Classifier prediction notebook of persons with diabetes.
